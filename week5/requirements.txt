@@ -1,1 +1,11 @@
-
+numpy==1.26.0
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+tensorflow[and-cuda]
+opencv
+conda-forge::detectron2
+pytorch::pytorch
+pytorch::torchvision
